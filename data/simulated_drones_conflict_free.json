@@ -1,0 +1,23 @@
+[
+    {
+      "drone_id": "Drone_A",
+      "start_time": 0,
+      "end_time": 10,
+      "waypoints": [
+        [0, 0, 0, 0],
+        [10, 0, 0, 5],
+        [20, 0, 0, 10]
+      ]
+    },
+    {
+      "drone_id": "Drone_B",
+      "start_time": 12,
+      "end_time": 22,
+      "waypoints": [
+        [0, 10, 0, 12],
+        [10, 10, 0, 17],
+        [20, 10, 0, 22]
+      ]
+    }
+  ]
+  
