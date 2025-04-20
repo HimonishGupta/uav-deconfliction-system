@@ -12,15 +12,17 @@ This system checks whether a drone's planned waypoint mission is conflict-free b
 - **Modular Python Codebase**: Easily extendable for integration with other UAV systems or further customization.
 - **Simulation Results**: Generates conflict-free and conflict-present scenarios for analysis.
 
-## Setup
-To install dependencies, run the following command:
-
-```bash
-pip install matplotlib
-
 ## Results
 
 Conflict-free scenario visualization: ![Screenshot 2025-04-20 132358](https://github.com/user-attachments/assets/f3266d2d-d314-4c19-afec-354099fd5a56)
 
 
 Conflict-present scenario visualization:![Screenshot 2025-04-20 132437](https://github.com/user-attachments/assets/29f13e47-d88e-4fac-a308-b70e72984b48)
+
+
+## Setup
+To install dependencies, run the following command:
+
+```bash
+pip install matplotlib
+
